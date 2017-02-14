@@ -1,6 +1,6 @@
 # React Timer - Practice App
 
-## Features include:
+### Features include:
 * React Components
 * Sass styling
 * webpack
