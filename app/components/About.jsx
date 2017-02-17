@@ -5,7 +5,7 @@ var About = React.createClass({
     return (
       <div>
         <h1 className="page-title">About</h1>
-
+        <p>Simple practice app for ReactJS - components, props, state, etc.</p>
       </div>
     )
   }
